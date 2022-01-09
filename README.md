@@ -1,6 +1,6 @@
 # Dicee
 
-## What you will learn
+## What I learned in this module
 
 * How to clone an existing Xcode project from GitHub.
 * Create an app with behaviour and functionality.
